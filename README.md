@@ -4,9 +4,7 @@ This project was completed as part of FreeCode Camp's section on Responsive Web 
 
 Once I completed the project objectives, I uploaded it to Codepen.io, and ran the FreeCode Camp test script. All objectives were met after minor edits.
 
-## TOC
-- [Dependencies](#dependencies)
-- [Resources](#resources)
+See the project on [Codepen.io](https://codepen.io/ginamc/pen/gqMJeJ).
 
 ## Dependencies
 - Google fonts
@@ -17,4 +15,3 @@ Once I completed the project objectives, I uploaded it to Codepen.io, and ran th
 - [Reference spec](https://codepen.io/freeCodeCamp/full/zNqgVx) to complete project by FreeCode Camp
 - Image screenshot and information about Dana Scruggs from [her website](https://www.danascruggs.com/about-me), and [Daily Ritual](https://daily-ritual.com/yoga-blog/monday-muse-photographer-dana-scruggs).
 
-See the project on [Codepen.io](https://codepen.io/ginamc/pen/gqMJeJ).
